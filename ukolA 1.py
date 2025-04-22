@@ -1,3 +1,4 @@
+#Cafourek
 jidloJedna = str(input("Napište jídlo č. 1: "))
 KalorieJedna = int(input("Kolik mělo kalorií: "))
 jidloDva = str(input("Napište jídlo č. 2: "))
