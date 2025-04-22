@@ -1,3 +1,4 @@
+#Brejcha
 try:
     běh = int(input("Jak dlouho jsi běhal?"))
     chuze = int(input("Jak dlouho jsi šel?"))
